@@ -4,7 +4,7 @@
 ### Olá, meu nome é Guilherme Avila
 
 🎨 **Programador** Front-End e Mobile <br>
-👨‍🎓 **Estudante** de Dev de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
+👨‍🎓 **Estudante** de Devenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 
 🖥️ Tecnologias dominadas:
 <div style="display: inline-block;">
