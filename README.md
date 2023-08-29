@@ -22,7 +22,7 @@
 
 <p align="left">
   
-  <a href="https://br.linkedin.com/in/guilherme-lopes-avila-5b0589265" alt="Linkedin">
+  <a href="https://br.linkedin.com/in/guilherme-lopes-avila" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/qr/N4DOYZAFMNHKF1" alt="WhatsApp">
