@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<h2> Olá, meu nome é Guilherme Avila!</h2>
 
-### Olá, meu nome é Guilherme Avila
-
-🎨 **Desenvolvedor** Front-End e Mobile <br>
+👨‍💻 **Desenvolvedor** Front-End <br>
 👨‍🎓 **Estudante** de Devenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 
-🖥️ Tecnologias dominadas:
-<div style="display: inline-block;">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                    
-</div>
+<h3>💻 &nbsp;Tecnologias dominadas:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 <p align="left">
   💌 Minhas Redes Sociais: ⤵️
@@ -25,7 +25,7 @@
   <a href="https://br.linkedin.com/in/guilherme-lopes-avila" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://wa.me/qr/N4DOYZAFMNHKF1" alt="WhatsApp">
+  <a href="https://wa.me/qr/N4DOYZAFMNHKF" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://instagram.com/terrykrom" alt="Instagram">
