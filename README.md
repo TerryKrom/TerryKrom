@@ -2,7 +2,7 @@
 
 <h2> Olá, meu nome é Guilherme Avila!</h2>
 
-👨‍💻 **Desenvolvedor** Front-End <br>
+👨‍💻 **Desenvolvedor** de Software <br>
 👨‍🎓 **Estudante** de Devenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 
 <h3>💻 &nbsp;Tecnologias dominadas:</h3>
