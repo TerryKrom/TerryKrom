@@ -3,7 +3,7 @@
 <h2> Olá, meu nome é Guilherme Avila!</h2>
 
 👨‍💻 **Desenvolvedor** de Software <br>
-👨‍🎓 **Estudante** de Devenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
+👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 
 <h3>💻 &nbsp;Tecnologias dominadas:</h3>
 
