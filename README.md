@@ -18,9 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<p align="left">
-  💌 Minhas Redes Sociais: ⤵️
-</p>
+<h3 align="left">💌 &nbsp;Minhas Redes Sociais:</h3>
 
 <p align="left">
   
