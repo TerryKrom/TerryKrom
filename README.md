@@ -4,6 +4,7 @@
 
 👨‍💻 **Desenvolvedor** de Software <br>
 👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
+👨‍🎓 **Estagiário** de T.I na [Prefeitura de São Vicente](https://www.prefeituradesaovicente.org) <br>
 
 <h3>💻 &nbsp;Tecnologias dominadas:</h3>
 
