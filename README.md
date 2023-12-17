@@ -2,11 +2,12 @@
 
 <h2> Olá, meu nome é Guilherme Avila!</h2>
 
-👨‍💻 **Desenvolvedor** de Software <br>
+**Desenvolvedor** de Software <br>
+
 👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 👨‍🎓 **Estagiário** de T.I na [Prefeitura de São Vicente](https://www.prefeituradesaovicente.org) <br>
 
-<h3>💻 &nbsp;Tecnologias dominadas:</h3>
+<h3>Tecnologias dominadas:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,12 +19,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<h3 align="left">💌 &nbsp;Minhas Redes Sociais:</h3>
+<h3 align="left">Minhas Redes Sociais:</h3>
 
 <p align="left">
   
   <a href="https://br.linkedin.com/in/guilherme-lopes-avila" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilherme-lopes-avila" /></a>
 
   <a href="https://wa.me/qr/N4DOYZAFMNHKF" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
