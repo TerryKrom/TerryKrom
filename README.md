@@ -5,7 +5,8 @@
 **Desenvolvedor** de Software <br>
 
 👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
-👨‍🎓 **Estagiário** de T.I na [Prefeitura de São Vicente](https://www.prefeituradesaovicente.org) <br>
+👨‍🎓 **Developer Trainee** na Beokay IT <br>
+👨‍🎓 **Salesforce Ranger** <br>
 
 <h3>Tecnologias dominadas:</h3>
 
