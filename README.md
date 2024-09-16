@@ -19,7 +19,11 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) <br>
+![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
+![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=salesforce)
+![Lwc](https://img.shields.io/badge/-Lwc-333333?style=flat&logo=salesforce)
+
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 
@@ -27,10 +31,6 @@
   
   <a href="https://br.linkedin.com/in/guilherme-lopes-avila" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilherme-lopes-avila" /></a>
-
-  <a href="https://wa.me/qr/N4DOYZAFMNHKF" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
   <a href="https://instagram.com/terrykrom" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/terrykrom"/></a>
 </p>  
