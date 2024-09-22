@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 <h2> Olá, meu nome é Guilherme Avila!</h2>
 
 **Desenvolvedor** de Software <br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
 👨‍🎓 **Developer Trainee** na Beokay IT <br>
@@ -23,6 +24,7 @@
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=salesforce)
 ![Lwc](https://img.shields.io/badge/-Lwc-333333?style=flat&logo=salesforce)
+
 
 
 <h3 align="left">Minhas Redes Sociais:</h3>
