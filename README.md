@@ -5,7 +5,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-👨‍🎓 **Estudante** de Desenvolvimento de Sistemas na [ETEC de Praia Grande SP](https://www.etecpg.com.br) <br>
+👨‍🎓 **Estudante** de Sistemas de Informação na [FALS Faculdade do Litoral Sul](https://www.fals.com.br) <br>
+👨‍🎓 **Técnico** em Desenvolvimento de Sistemas <br>
 👨‍🎓 **Developer Trainee** na Beokay IT <br>
 👨‍🎓 **Salesforce Ranger** <br>
 
