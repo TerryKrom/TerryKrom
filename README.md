@@ -24,7 +24,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) <br>
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=salesforce)
-![Lwc](https://img.shields.io/badge/-Lwc-333333?style=flat&logo=salesforce)
+![Lwc](https://img.shields.io/badge/-LWC-333333?style=flat&logo=salesforce)
 
 
 
