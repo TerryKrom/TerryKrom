@@ -7,7 +7,7 @@
 
 👨‍🎓 **Estudante** de Sistemas de Informação na [FALS Faculdade do Litoral Sul](https://www.fals.com.br) <br>
 👨‍🎓 **Técnico** em Desenvolvimento de Sistemas <br>
-👨‍🎓 **Developer Trainee** na Beokay IT <br>
+👨‍🎓 **Salesforce Developer** na Beokay IT <br>
 👨‍🎓 **Salesforce Ranger** <br>
 
 <h3>Tecnologias dominadas:</h3>
