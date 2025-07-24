@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-👨‍🎓 **Estudante** de Sistemas de Informação na [FALS Faculdade do Litoral Sul](https://www.fals.com.br) <br>
+👨‍🎓 **Engenheiro de Software** em formação na [Uniasselvi](https://www.portal.uniasselvi.com.br) <br>
 👨‍🎓 **Técnico** em Desenvolvimento de Sistemas <br>
 👨‍🎓 **Salesforce Developer** na Beokay IT <br>
 👨‍🎓 **Salesforce Ranger** <br>
