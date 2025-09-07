@@ -33,8 +33,13 @@
 
 <p align="left">
   
-  <a href="https://br.linkedin.com/in/guilherme-lopes-avila" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilherme-lopes-avila" /></a>
-  <a href="https://instagram.com/terrykrom" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/terrykrom"/></a>
+<a href="https://br.linkedin.com/in/guilherme-lopes-avila">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/terrykrom">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.salesforce.com/trailblazer/guilaviladev">
+  <img src="https://img.shields.io/badge/-Trailhead-00A1e0?style=flat-square&logo=Salesforce&logoColor=white" alt="Trailhead"/>
+</a>
 </p>  
